@@ -1,11 +1,13 @@
 # projet_algorithmie
 
 Transformée de Burrow-Weeler (BWT)
+
 ● Publiée par Michael Burrows et David Wheeler en 1994
 ● Utilisée avec de grands jeux de séquences
 ● Transforme l’ordre des caractères d’un texte
 ● Sortie d’un BWT est facilement compressable
 ● Utilisé par bzip2
+
 Compression d’Huffman
 ● Compression d’Huffman est utilise dans de nombreux
 standards de compression
