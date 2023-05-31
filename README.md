@@ -14,7 +14,7 @@ standards de compression
 
 ** MANUEL**
 
-Ce programme comprte trois fichier : 
+Ce programme comporte trois fichier : 
 
 bwt.py pour faire la transformer de Burrow-Weeler en ligne de commande soit en copiant la sequence soit en entrant le chemin vers le fichier fasta 
 
@@ -23,3 +23,6 @@ main_tk.py permet de faire la transformation de bwt a partir d un interface grap
 huffmaN.py pour faire la compression de Huuffman en copian la sequence 
 
 vous retrouverer egalement un fichier fasta fictif
+
+laissez-vous guidez. 
+
