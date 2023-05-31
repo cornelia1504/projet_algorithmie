@@ -24,5 +24,5 @@ huffmaN.py pour faire la compression de Huuffman en copian la sequence
 
 vous retrouverer egalement un fichier fasta fictif
 
-laissez-vous guidez. 
+laissez-vous guider. 
 
